@@ -1,0 +1,16 @@
+{
+    "name": "contus/router",
+    "description": "Package used for make communicating between various services",
+    "authors": [
+        {
+            "name": "contus",
+            "email": "developer@contus.in"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Contus\\Router\\": "src/"
+        }
+    },
+    "require": {}
+}

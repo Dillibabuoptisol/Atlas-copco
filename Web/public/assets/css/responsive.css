@@ -1,0 +1,191 @@
+@media (min-width:1200px) and (max-width:1299px){
+.dicv-partner{position:relative;margin-bottom:8%;}
+.login-template .left-side h1.logo{margin:0;padding:5% 0 8%;text-align:center;}
+.login-template.forgot-password .left-side h1.logo{margin:0;padding:5% 0 45px;text-align:center;}
+.login-template .banner{background-position:center;}
+.header-filter h3{margin:8px 0 0;font-size:18px;}
+.header-filter .filter .date-picker-filter .input-group{float:left;margin-right:10px;}
+.header-filter .filter .bulk-upload{margin-left:10px;}
+.header-filter .filter .bulk-upload, .header-filter .filter .create-new{}
+}
+@media(max-width: 1199px) {
+	.view-page .view-page-header h3,
+	.view-page h3.heading-part span {
+		font-size: 16px;
+	}
+	.view-page .one-set .section-divide h5,
+	.view-page .one-set .section-divide p,
+	.slider h4 {
+		font-size: 15px;
+	}
+	.view-page .one-set .section-divide .left-side {
+	    padding-right: 38px;
+	}
+	.view-page .one-set .section-divide,
+	.slider-section {
+	    padding-left: 40px;
+	}
+	#lightgallery .item {
+	    width: 33.3%;
+	}
+}
+@media  (max-width:1050px){
+.upload .file-name,.help_notes_abs{
+	position: static;
+    width: 18em;
+    text-align: center;
+    margin: 1em auto;
+}
+.contentpanel .form-page .normal-label{text-align:left;}
+}
+@media (min-width:992px) and (max-width:1199px){
+.header-filter h3{margin:8px 0;font-size:18px;}
+.dicv-partner{margin-bottom:30px;}
+.login-template .left-side h1.logo{margin:0;padding:10px 0 50px;text-align:center;}
+.login-template .left-side{width:30% }
+.login-template .banner{width:70%;background-size:cover;}
+.login-template .banner img{display:none }
+.login-template .left-side .dicv-partner h3{font-size:29px;height:58px;padding-top:5px;}
+.login-template .left-side .dicv-partner h3 span{font-size:19px;}
+.header-filter .filter .date-picker-filter label{margin-right:5px;font-size:13px;}
+.header-filter .filter .date-picker-filter .input-group{/* width:114px; */margin-right:5px;}
+.header-filter .filter .date-picker-filter .input-group .input-group-addon{padding:6px 7px 6px 0;}
+.header-filter .filter .bulk-upload, .header-filter .filter .create-new{width:auto;font-size:13px;}
+.header-filter .filter .bulk-upload{margin-left:0;}
+.header-filter .filter .create-new{margin-left:5px;}
+}
+@media (min-width:768px) and (max-width:991px){
+.login-template .banner{background-size:cover;}
+ .login-template .left-side{width:40%;z-index:1;}
+ .login-template .banner img{display:none }
+ .login-template .left-side h1.logo{padding:30px 0 50px;}
+ .login-template .left-side .dicv-partner .sprite{width:45px;height:48px;left:10px;top:5px;background-position:-2px -120px;}
+ .login-template .left-side .dicv-partner h3{font-size:1.8em;}
+ .header-filter{padding:10px;}
+.header-filter h3{margin:12px 0 0;font-size:15px;}
+.header-filter .filter .date-picker-filter label{margin-right:5px;font-size:13px;}
+.header-filter .filter .date-picker-filter .input-group{margin-right:5px;}
+.header-filter .filter .date-picker-filter .input-group .input-group-addon{padding:6px 7px 6px 0;}
+.header-filter .filter .bulk-upload, .header-filter .filter .create-new{width:auto;font-size:13px;}
+.header-filter .filter .bulk-upload{margin-left:0;}
+.header-filter .filter .create-new{margin-left:5px;}
+.contentpanel .form-page .normal-label{margin-bottom:10px;}
+.contentpanel .form-page .normal-label + div > div{margin-bottom:5px;}
+.view-page .one-set .section-divide .left-side,
+.view-page .center-side,
+.view-page .right-side-one,
+.view-page .right-side, {
+    width: 50%;
+}
+}
+@media (max-width:767px){
+	.contentpanel .form-page .normal-label{margin-bottom:10px;}
+.contentpanel .form-page .normal-label + div > div{margin-bottom:5px;}
+.login-template .left-side h1.logo{margin:0;padding:0px 0 25px;}
+ .login-template .left-side h1.logo img{width:170px;}
+ .login-template .left-side .dicv-partner h3{font-size:1.7em;}
+ .login-template a.forgot-password-link{margin:0 }
+ .login-template .login-footer{padding:1em 0;}
+ .login-template .left-side{width:90%;position:absolute;top:5%;left:5%;height:auto;min-height:90%;}
+ .login-template .banner{width:100%;background-image:url(../images/login-banner.jpg);background-size:cover;background-position:center }
+ .login-template .banner img{display:none }
+ .login-template .left-side .dicv-partner .sprite{width:39px;height:41px;background-position:-3px -69px;}
+ .branding-logo .logos .bharatbenz.sprite{width:66px;height:40px;background-position:-59px -69px;}
+ .branding-logo .logos .mercedes.sprite{width:68px;height:40px;background-position:-130px -69px;}
+ .branding-logo .logos .fuso.sprite{width:37px;height:38px;background-position:-203px -71px;}
+ .header-filter h3{font-size:18px;margin:4px 0 20px;}
+.tablesaw-bar {top: 63px;}    
+.pagination{display:inline-block;float:none}
+.pagination>li>a, .pagination>li>span{padding:4px 0;min-width:27px;font-size:12px;}
+.pageheader{padding: 12px 10px;}
+i.strategy-headericon{zoom:0.8;}
+.form-page .form-page-content .inner-content .row {padding: 0 10px;}
+.contentpanel {padding: 10px;}
+.view-page .one-set .section-divide .left-side,
+.view-page .center-side,
+.view-page .right-side-one,
+.view-page .right-side,.view-page.rv-alters .one-set .section-divide .left-side,
+.view-page.rv-alters .right-side-one{
+    width: 100%;
+}
+.view-page .view-page-header h3,
+	.view-page h3.heading-part span {
+		font-size: 16px;
+	}
+	.view-page .one-set .section-divide h5,
+	.view-page .one-set .section-divide p,
+	.slider h4 {
+		font-size: 15px;
+	}
+	.view-page .one-set .section-divide .left-side {
+	    padding-right: 0;
+	}
+
+	#lightgallery .item {
+	    width: 50%;
+	}
+	
+.slider {
+	padding: 19px 40px 20px
+}
+.view-page .center-side.right-full{width:100% !important;}
+}
+@media (min-width:651px) and (max-width:767px){
+.header-filter .filter .date-picker-filter label{margin-right:5px;font-size:15px;}
+.header-filter .filter .date-picker-filter .input-group{}
+.header-filter .filter .bulk-upload, .header-filter .filter .create-new{width:auto;}
+ .header-filter .filter .date-picker-filter .input-group .form-control{font-size:0.9em;}
+.header-filter .filter .bulk-upload{margin-left:0px;}
+.header-filter .filter .create-new{margin-left:10px;}
+} 
+@media screen and (max-width:705px){
+ .header-filter .filter{width:100%;text-align:center;}
+ .header-filter .filter .date-picker-filter .input-group{vertical-align:middle;width: 100%;float:none;display:inline-block;position:relative;}
+ .header-filter .filter .date-picker-filter{width:100%;margin-bottom:8px;}
+ .header-filter .filter .bulk-upload, .header-filter .filter .create-new{width:auto;float:none;display:inline-block;vertical-align:middle;}
+ .header-filter .filter .date-picker-filter label{float:none;display:inline-block;vertical-align:middle;}
+.header-filter .filter .date-picker-filter .input-group .input-group-addon{position:absolute;right:10px;top:5px;}
+.upload form > img{max-width: 100%;}
+.tablesaw-bar {top: 98px;}    
+}
+ @media (max-width:499px){
+ .header-filter .filter .date-picker-filter label{margin-right:0;width:19%;}
+.login-template .login-footer{padding:1em 0;position:static;}
+.header-filter .filter .date-picker-filter .input-group{margin-right:0;margin-bottom:0px;}
+.header-filter .filter .bulk-upload, .header-filter .filter .create-new{width:48%;font-size:13px;}
+.header-filter .filter .bulk-upload, .header-filter .filter .create-new{margin:2px 0;width:100%;}
+.set_toggle .tablesaw-bar{top:141px;}
+.tablesaw-bar{top:102px;right:0;}
+.custom-pagination{padding:0 10px;text-align:center;}
+.pagination{display:inline-block;float:none}
+.pageheader .col-md-6{width:100%}
+button.upper-button{width:100%;}
+.pageheader .col-md-6{display:block;float:left;}
+ .login-template .branding-logo .logos{width:100%;margin:0.5em 0;}
+ .admin_content .contentpanel{margin:0.9em;}
+ .btn.btn_wt_bg,.btn.btn_w_bg{display:block;width:100%;margin-top:0.4em;font-size:1em;}
+
+.view-page .one-set .section-divide,
+.slider-section {
+    padding-left: 20px;
+}
+.view-page .one-set .section-divide .text-image {
+	width: 100%
+}
+.view-page .one-set .section-divide .text-image .image {
+	width: 100%
+}
+
+#lightgallery .item {
+    width: 100%;
+}
+}
+ @media (max-width:360px){
+     .upload .upload-button{width: 100%;}
+}
+
+@media (min-width: 768px){
+.modal-dialog.minwidth{
+	width:400px;
+}
+}

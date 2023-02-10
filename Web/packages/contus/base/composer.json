@@ -1,0 +1,20 @@
+{
+    "name": "contus/base",
+    "description": "Package used for make base structure to various services",
+    "authors": [
+        {
+            "name": "karthikeyan",
+            "email": "karthikeyan.n@contus.in"
+        },
+        {
+            "name": "thirunisha",
+            "email": "thirunisha.c@contus.in"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Contus\\Base\\": "src/"
+        }
+    },
+    "require": {}
+}
